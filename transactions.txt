@@ -2,6 +2,7 @@
 🔹 RRN: 192332390, Nominal: + Rp 1.000
 🔹 RRN: 1bsgom156759, Nominal: + Rp 100
 🔹 RRN: 192444711, Nominal: + Rp 1.000
+🔹 RRN: AX4UR54IHHAG, Nominal: + Rp 9.000
 🔹 RRN: 198218763, Nominal: + Rp 150.000
 🔹 RRN: 192348995, Nominal: + Rp 1.000
 🔹 RRN: 192894239, Nominal: + Rp 1.000
