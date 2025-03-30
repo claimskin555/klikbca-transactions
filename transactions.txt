@@ -1,13 +1,1 @@
-🔹 RRN: 193000835, Nominal: + Rp 1.000
-🔹 RRN: 192332390, Nominal: + Rp 1.000
-🔹 RRN: 201169272, Nominal: + Rp 60.000
-🔹 RRN: 1bsgom156759, Nominal: + Rp 100
-🔹 RRN: 201412550, Nominal: + Rp 110.000
-🔹 RRN: 821894009423, Nominal: + Rp 10.000
-🔹 RRN: 192444711, Nominal: + Rp 1.000
-🔹 RRN: AX4UR54IHHAG, Nominal: + Rp 9.000
-🔹 RRN: 198218763, Nominal: + Rp 150.000
-🔹 RRN: 192348995, Nominal: + Rp 1.000
-🔹 RRN: 192894239, Nominal: + Rp 1.000
-🔹 RRN: 00000054FH9J, Nominal: + Rp 10.000
-🔹 RRN: 192521812, Nominal: + Rp 1.000
+🔹 RRN: 001539271947, Nominal: + Rp 120.000
