@@ -1,7 +1,1 @@
-🔹 RRN: 1bzv29e51597, Nominal: + Rp 20.000
-🔹 RRN: 263908756, Nominal: + Rp 140.000
-🔹 RRN: 1c0hfaw43890, Nominal: + Rp 140.000
-🔹 RRN: 258431747, Nominal: + Rp 140.000
-🔹 RRN: KINGDO1, Nominal: + Rp 140.000
-🔹 RRN: KINGDO2, Nominal: + Rp 140.000
-🔹 RRN: 1561884299, Nominal: + Rp 140.000
+🔹 RRN: 0000005FLLX7, Nominal: + Rp 100.000
