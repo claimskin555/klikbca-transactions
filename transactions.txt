@@ -1,9 +1,1 @@
-🔹 RRN: 1cb855423227, Nominal: + Rp 150.000
-🔹 RRN: 1cb7q3q73660, Nominal: + Rp 1.000.000
-🔹 RRN: kingdos1, Nominal: + Rp 150.000
-🔹 RRN: kingdos2, Nominal: + Rp 150.000
-🔹 RRN: kingdos3, Nominal: + Rp 150.000
-🔹 RRN: kingdos4, Nominal: + Rp 150.000
-🔹 RRN: kingdos5, Nominal: + Rp 150.000
-🔹 RRN: kingdos6, Nominal: + Rp 150.000
-🔹 RRN: kingdos7, Nominal: + Rp 150.000
+🔹 RRN: 1cbtv6i26797, Nominal: + Rp 25.000
