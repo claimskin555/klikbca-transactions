@@ -1,1 +1,7 @@
-🔹 RRN: 1cb7q3q73660, Nominal: + Rp 1.000.000
+🔹 RRN: kingdo1, Nominal: + Rp 150.000
+🔹 RRN: kingdo2, Nominal: + Rp 150.000
+🔹 RRN: kingdo3, Nominal: + Rp 150.000
+🔹 RRN: kingdo4, Nominal: + Rp 150.000
+🔹 RRN: kingdo5, Nominal: + Rp 150.000
+🔹 RRN: kingdo6, Nominal: + Rp 150.000
+🔹 RRN: kingdo7, Nominal: + Rp 150.000
