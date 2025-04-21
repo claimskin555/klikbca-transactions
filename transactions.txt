@@ -1,6 +1,1 @@
-🔹 RRN: 504605429971, Nominal: + Rp 150.000
-🔹 RRN: aaa1, Nominal: + Rp 150.000
-🔹 RRN: aaa2, Nominal: + Rp 150.000
-🔹 RRN: aaa3, Nominal: + Rp 150.000
-🔹 RRN: aaa4, Nominal: + Rp 150.000
-🔹 RRN: aaa5, Nominal: + Rp 150.000
+🔹 RRN: 428566407, Nominal: + Rp 150.000
