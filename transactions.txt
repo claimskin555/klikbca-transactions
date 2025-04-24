@@ -1,1 +1,5 @@
-🔹 RRN: 832456872506, Nominal: + Rp 110.000
+🔹 RRN: aaaab1, Nominal: + Rp 110.000
+🔹 RRN: aaaab2, Nominal: + Rp 110.000
+🔹 RRN: aaaab3, Nominal: + Rp 110.000
+🔹 RRN: aaaab4, Nominal: + Rp 110.000
+🔹 RRN: aaaab5, Nominal: + Rp 110.000
