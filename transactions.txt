@@ -1,4 +1,5 @@
-🔹 RRN: 1cltjqe91175, Nominal: + Rp 110.000
-🔹 RRN: 504659286070, Nominal: + Rp 150.000
-🔹 RRN: 0000005SCJYL, Nominal: + Rp 110.000
+🔹 RRN: 473034843, Nominal: + Rp 220.000
 🔹 RRN: 0000005S750R, Nominal: + Rp 150.000
+🔹 RRN: 1cltjqe91175, Nominal: + Rp 110.000
+🔹 RRN: 0000005SCJYL, Nominal: + Rp 110.000
+🔹 RRN: 504659286070, Nominal: + Rp 150.000
