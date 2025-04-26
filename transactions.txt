@@ -1,4 +1,5 @@
 🔹 RRN: 479887275, Nominal: + Rp 150.000
+🔹 RRN: 1cntj2j81220, Nominal: + Rp 660.000
 🔹 RRN: 479919998, Nominal: + Rp 150.000
 🔹 RRN: 473034843, Nominal: + Rp 220.000
 🔹 RRN: 479934968, Nominal: + Rp 150.000
@@ -10,6 +11,3 @@
 🔹 RRN: 0000005SCJYL, Nominal: + Rp 110.000
 🔹 RRN: 504659286070, Nominal: + Rp 150.000
 🔹 RRN: 476614928, Nominal: + Rp 150.000
-🔹 RRN: 26042025DO1THN1, Nominal: + Rp 220.000
-🔹 RRN: 26042025DO1THN2, Nominal: + Rp 220.000
-🔹 RRN: 26042025DO1THN3, Nominal: + Rp 220.000
