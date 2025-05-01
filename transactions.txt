@@ -1,15 +1,2 @@
-🔹 RRN: 495261733, Nominal: + Rp 150.000
-🔹 RRN: 0090508034be, Nominal: + Rp 110.000
-🔹 RRN: 2d3da22d50f7, Nominal: + Rp 110.000
-🔹 RRN: d254ee5b1d54, Nominal: + Rp 110.000
-🔹 RRN: 300406575458, Nominal: + Rp 110.000
-🔹 RRN: 495268364, Nominal: + Rp 150.000
-🔹 RRN: 0000005VRXKX, Nominal: + Rp 110.000
-🔹 RRN: 0000005VZRGH, Nominal: + Rp 110.000
-🔹 RRN: 126647287, Nominal: + Rp 110.000
-🔹 RRN: 0000005XYY3P, Nominal: + Rp 110.000
-🔹 RRN: 496044493, Nominal: + Rp 150.000
-🔹 RRN: 92db555fbfa6, Nominal: + Rp 110.000
-🔹 RRN: 01052005a, Nominal: + Rp 110.000
-🔹 RRN: 01052025b, Nominal: + Rp 110.000
-🔹 RRN: 01052025c, Nominal: + Rp 110.000
+🔹 RRN: 0000005YRC4P, Nominal: + Rp 110.000
+🔹 RRN: 1ct61gb08369, Nominal: + Rp 330.000
