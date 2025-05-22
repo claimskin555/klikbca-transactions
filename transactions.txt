@@ -1,8 +1,1 @@
-🔹 RRN: 0000006H94Z8, Nominal: + Rp 110.000
-🔹 RRN: 1dffnhv96888, Nominal: + Rp 150.000
-🔹 RRN: 0000006H7F0D, Nominal: + Rp 110.000
-🔹 RRN: 000000054172, Nominal: + Rp 170.000
-🔹 RRN: 0000006H7DR2, Nominal: + Rp 110.000
-🔹 RRN: 1de1ddb75382, Nominal: + Rp 150.000
-🔹 RRN: 0000006HFQTK, Nominal: + Rp 150.000
-🔹 RRN: 882873Jnnsd, Nominal: + Rp 150.000
+🔹 RRN: 369724670, Nominal: + Rp 10.000
