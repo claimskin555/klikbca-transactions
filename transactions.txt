@@ -6,3 +6,5 @@
 🔹 RRN: 1dhh2n009003, Nominal: + Rp 50.000
 🔹 RRN: 1dhn8nd26660, Nominal: + Rp 170.000
 🔹 RRN: 0000006L4JXV, Nominal: + Rp 100.000
+🔹 RRN: 15141241, Nominal: + Rp 10.000
+🔹 RRN: 125121442, Nominal: + Rp 10.000
