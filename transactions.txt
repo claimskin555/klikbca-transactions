@@ -21,3 +21,5 @@
 🔹 RRN: DTKA5O006568, Nominal: + Rp 150.000
 🔹 RRN: 505665228722, Nominal: + Rp 210.000
 🔹 RRN: 1dltv5861380, Nominal: + Rp 600.000
+🔹 RRN: 0000662JWJD, Nominal: + Rp 150.000
+🔹 RRN: 000072378JJ, Nominal: + Rp 150.000
