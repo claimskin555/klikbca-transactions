@@ -4,3 +4,4 @@
 🔹 RRN: FREEVPS1, Nominal: + Rp 5.000
 🔹 RRN: FREEVPS2, Nominal: + Rp 5.000
 🔹 RRN: FREEVPS3, Nominal: + Rp 5.000
+🔹 RRN: H8827232, Nominal: + Rp 150.000
