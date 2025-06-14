@@ -1,6 +1,1 @@
-🔹 RRN: 0000HCKD, Nominal: + Rp 150.000
-🔹 RRN: xxxxxxkontol, Nominal: + Rp 150.000
-🔹 RRN: testeraja123, Nominal: + Rp 150.000
-🔹 RRN: 00000077H6X0, Nominal: + Rp 10.000
-🔹 RRN: 1e4z7oo70877, Nominal: + Rp 150.000
-🔹 RRN: 1435131323, Nominal: + Rp 150.000
+🔹 RRN: AX4UEDQQUQBG, Nominal: + Rp 100.000
