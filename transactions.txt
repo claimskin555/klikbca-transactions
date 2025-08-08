@@ -1,9 +1,1 @@
-🔹 RRN: XXXCCC4, Nominal: + Rp 120.000
-🔹 RRN: XXXCCC5, Nominal: + Rp 120.000
-🔹 RRN: XXXCCC4, Nominal: + Rp 120.000
-🔹 RRN: XXXCCC3, Nominal: + Rp 120.000
-🔹 RRN: XXXCCC2, Nominal: + Rp 120.000
-🔹 RRN: XXXCCC1, Nominal: + Rp 120.000
-🔹 RRN: 1ftodkf96706, Nominal: + Rp 80.000
-🔹 RRN: 1ftojlo50345, Nominal: + Rp 120.000
-🔹 RRN: 139398673, Nominal: + Rp 120.000
+🔹 RRN: 1fv5kom46160, Nominal: + Rp 600.000
